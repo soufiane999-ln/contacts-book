@@ -8,7 +8,7 @@
 
 # Set up the project locally
 <ol>
-<li>Clone the repository(please make sure to have the required version of php)<li>
+<li>Clone the repository(please make sure to have the required version of php)</li>
 <li>Edit the database connection variable in .env files </li>
 <li>Install the required dependencies of the project, by executing the command 'composer install' </li>
 <li>
