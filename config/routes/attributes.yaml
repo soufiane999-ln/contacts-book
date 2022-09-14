@@ -1,0 +1,9 @@
+# config/routes/attributes.yaml
+controllers:
+  resource: ../../src/Controller/
+  type: attribute
+  trailing_slash_on_root: false
+
+kernel:
+  resource: ../../src/Kernel.php
+  type: attribute

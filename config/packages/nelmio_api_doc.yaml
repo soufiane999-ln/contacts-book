@@ -1,0 +1,9 @@
+nelmio_api_doc:
+    documentation:
+        info:
+            title: Contacts Book Rest Api
+            description:
+            version: 1.0.0
+    areas:
+        path_patterns:
+            - ^/customers/(?!doc$)
