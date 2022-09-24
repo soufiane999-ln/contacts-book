@@ -16,7 +16,7 @@ run the command: composer prepare, that will set up the database & data(fixtures
 </li>
 
 <li>
-Generate the private and public .files for JWT authentication, them copy them to the folder "config/jwt", the used passphrase is "password"
+Generate the private and public .pem files for JWT authentication, them copy them to the folder "config/jwt", the used passphrase is "password"
 </li>
 
 </ol>
