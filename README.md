@@ -30,7 +30,7 @@ so basically you will need just to execute the tests, by running: php bin/phpuni
 </li>
 </ol>
 
-# API
+# API Documentation
 <ol>
 <li>
     GET: {server}:{port}/api/doc
